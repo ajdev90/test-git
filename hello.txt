@@ -6,3 +6,5 @@ Python
 .Net
 git
 TFS
+docker
+k8s
