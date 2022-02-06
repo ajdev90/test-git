@@ -8,3 +8,6 @@ git
 TFS
 docker
 k8s
+tomcat
+nginx
+jwt
